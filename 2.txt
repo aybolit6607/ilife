@@ -1,0 +1,28 @@
+  <!DOCTYPE html>
+<html>
+  <style type="text/css">
+    body {
+      font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+      color: black;
+      background-color: goldenrod
+    }
+
+  </style>
+
+  <head>
+    <title>Інформація</title>
+  </head>
+
+  <body>
+    <h1>Інформація</h1>
+    <h2 style="font-size:18px;">Імʼя: <span style="font-size:24px;"> Марина</span></h2>
+    <h3 style="font-size:18px;">Прізвище:<span style="font-size:24px;"> Фролова</span></h3>
+    <h4 style="font-size:18px;">Дата народження:<span style="font-size:24px;"> 04.01.1966 р.</span></h4>
+    <h5 style="font-size:25px;">Mісто проживання:<span style="font-size:24px;"> Київ</span></h5>
+    <h6 style="font-size:18px;">Освіта:<span style="font-size:24px;"> вища</span> </h6>
+    <h7 style="font-size:18px;"><b>Захоплення:</b><span style="font-size:24px;"> Люблю собак, особливо папильонів </span></h7>
+    <img width="500;" src="https://petsi.net/images/dogbreed/93.jpg">
+    <p style="font-size:24px;">Вивчаю англійську</p><a href="https://eshko.ua/">Google Chrome</a>
+  </body>
+
+</html>
